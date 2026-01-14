@@ -1,3 +1,12 @@
-Hello
+# 👋 Bonjour, je suis Christine Tetard
 
-I'm a full-stack developer
+💻 Développeuse web débutante, motivée et curieuse, je me forme au développement web et je cherche à renforcer mes compétences à travers des projets concrets.
+
+---
+
+## 🚀 À propos de moi
+
+- 🌱 Développeuse web **débutante**
+- 📚 En formation / en reconversion dans le développement web
+- 💡 Curieuse, persévérante et motivée par l’apprentissage continu
+- 🤝 Intéressée par les projets collaboratifs et les premières expériences professionnelles
