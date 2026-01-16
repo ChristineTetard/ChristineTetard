@@ -15,8 +15,8 @@
 Devenir développeuse web, capable de concevoir des solutions fiables, claires et maintenables, et intégrer une équipe où je pourrai continuer à apprendre et progresser.
 
 ## 🛠️ Compétences en cours d’acquisition
-- **Langages :** <ex : Python, JavaScript, HTML, CSS>
-- **Technologies :** <ex : React, Node.js, Git>
+- **Langages :** Python, JavaScript, HTML, CSS
+- **Technologies :** React, Node.js, Git
 - **Outils :** Git, GitHub, VS Code
 
 ## 📂 Projets
